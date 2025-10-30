@@ -17,7 +17,18 @@ When I’m not coding, you’ll probably find me watching cricket 🏏 or painti
 ---
 
 ### 🌐 Connect With Me   
-[![Portfolio](https://img.shields.io/badge/Portfolio-ujjvalrajput.com-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ujjval-rajput.vercel.app/) )
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-UjjvalRajput-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujjvalrajput)
-[![GitHub](https://img.shields.io/badge/GitHub-UjjvalRajput-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UjjvalRajput)
-[![Email](https://img.shields.io/badge/Email-ujjval.rajput%40mail.utoronto.ca-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ujjval.rajput@mail.utoronto.ca)
+<p align="center">
+  <a href="https://ujjval-rajput.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/UjjvalRajput">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://medium.com/@ujjval.rajput">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+  </a>
+  <a href="mailto:ujjval.rajput@mail.utoronto.ca">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+</p>
+
