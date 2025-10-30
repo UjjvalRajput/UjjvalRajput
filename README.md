@@ -6,7 +6,7 @@ I love building things that *feel good to use* — whether it’s a fast Rust ba
 
 I enjoy working across systems, making tools more intuitive, and learning technologies that make development smoother.  
 
-When I’m not coding, you’ll probably find me watching cricket 🏏 or painting 🎨.  
+When I’m not coding, you’ll probably find me playing cricket 🏏 or painting 🎨.  
 
 ---
 
