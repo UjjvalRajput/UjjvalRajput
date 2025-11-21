@@ -2,7 +2,7 @@
 
 🎓 CS @ University of Toronto  
 
-I love building things that *feel good to use* — whether it’s a fast Rust backend, a sleek React interface, or an automation that makes life easier.  
+I love building things that *feel good to use*.  
 
 I enjoy working across systems, making tools more intuitive, and learning technologies that make development smoother.  
 
@@ -11,7 +11,7 @@ When I’m not coding, you’ll probably find me playing cricket 🏏 or paintin
 ---
 
 ### ⏳ Currently  
-☁️ Learning **cloud technologies**  
+☁️ Learning **cloud technologies (AWS)** 
 🦀 Exploring **WebAssembly**
 
 ---
