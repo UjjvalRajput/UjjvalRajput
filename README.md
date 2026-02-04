@@ -1,6 +1,6 @@
 # Hey, I'm Ujjval!
 
-🎓 CS @ University of Toronto  
+CS @ University of Toronto  
 
 I love building things that *feel good to use*.  
 
@@ -10,14 +10,14 @@ When I’m not coding, you’ll probably find me playing cricket 🏏 or paintin
 
 ---
 
-### ⏳ Currently  
-☁️ Learning **cloud technologies (AWS)** 
+### Currently  
+Learning **cloud technologies (AWS)** 
 
-🦀 Exploring **WebAssembly**
+Exploring **WebAssembly**
 
 ---
 
-### 🌐 Connect With Me   
+### Connect With Me   
 <p align="center">
   <a href="https://ujjval-rajput.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/>
