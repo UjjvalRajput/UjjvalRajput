@@ -4,7 +4,7 @@
 
 ## About Me:
 - Computer Science Student @ University of Toronto (PEY Co-op, Class of 2027)  
-- Software Engineer @ Arcadis | Ex-Lumentum (2x Software Engineering Intern)  
+- Software Engineer (PEY Co-op) @ Arcadis | Ex-Lumentum (2x Software Engineering Intern) | Ex-Concur (Software Engineering Intern)
 - Experienced in backend systems, cloud infrastructure, and full-stack development
   
 - Open to New Grad Dec 2026 / Jan 2027 SWE opportunities
