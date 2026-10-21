@@ -9,7 +9,7 @@
   
 - Open to New Grad Dec 2026 / Jan 2027 SWE opportunities
 
-- ujjval.rajput@mail.utoronto.ca  
+- ujjvalrajput.dev@gmail.com
 - https://ujjval-rajput.vercel.app  
 
 <br>
