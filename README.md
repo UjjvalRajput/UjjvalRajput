@@ -10,7 +10,7 @@
 - Open to New Grad Dec 2026 / Jan 2027 SWE opportunities
 
 - ujjvalrajput.dev@gmail.com
-- https://ujjval-rajput.vercel.app  
+- www.urajput.com 
 
 <br>
 
